@@ -1,0 +1,32 @@
+# React / Node
+node_modules/
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Django
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+db.sqlite3
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+#zip files
+*.zip
